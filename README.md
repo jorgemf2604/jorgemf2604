@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jorge Martin Fernandez (@jorgemf2604).
+- 👋 Hi, I’m Jorge Martin Fernandez.
 - 👀 I’m interested in Computer Science,programming, Fantasy, Science Fiction, videogames,... just a textbook geek.   
 - 🌱 I’m currently doing a coding bootcamp with Northcoders. 
 - 💞️ This github is a logbook of my progress while learning how to code. 
