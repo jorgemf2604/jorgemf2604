@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Jorge Martin Fernandez.
 - 👀 I’m interested in Computer Science, programming, Fantasy, Science Fiction, videogames,... just a textbook geek.   
-- 📚 I'm studying Computing at the Open University (I have finished my first year).
-- 🌱 I’m currently doing a coding bootcamp with Northcoders. 
-- 💞️ This github is a logbook of my progress while learning how to code. 
+- 📚 I'm studying Computing at the Open University (I am starting my second year in September 23).
+- 🌱 I graduated from Northcoders bootcamp in Spring 23. 
+- 👁️ Currenly looking for a job as a software developer (UK) 
 - 📫 How to reach me: send me a tweet at @aJorgeMartin
 
 <!---
