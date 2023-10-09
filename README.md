@@ -4,7 +4,7 @@
 - 🌱 I graduated from Northcoders (coding bootcamp) in June 23.
 - 👁️ Currenly looking for a job as a software developer (UK) 
 - 📫 How to reach me: email me at jorgemf2604@gmail.com
-- 🖊️(LinkedIn)[www.linkedin.com/in/jorge-martin-fernandez-49923b285]
+- 🖊️ [LinkedIn](www.linkedin.com/in/jorge-martin-fernandez-49923b285)
 
 <!---
 jorgemf2604/jorgemf2604 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
