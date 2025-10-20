@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Jorge Martin Fernandez.
-- 👀 I’m interested in Computer Science, programming, Fantasy Literature, Science Fiction, videogames,...    
+- 👋 Hi, I’m Jorge Martin Fernandez.    
 - 📫 How to reach me: email me at jmf2604@gmail.com
 
 
